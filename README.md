@@ -6,7 +6,6 @@ Developer
 
 * 🌍  I'm based in ramallah
 * ✉️  You can contact me at [mujahedabuali0@gmail.com](mailto:mujahedabuali0@gmail.com)
-* 🚀  I'm currently working on [Mee3ad](http://(s)//:mee3ad.com)
 
 ### Skills
 
